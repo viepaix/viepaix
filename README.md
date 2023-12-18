@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viepaix
 - 👀 I’m interested in python and cybersecurity
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project with python and learn cybersecurity
+- 💞️ I love all the tech things and if there is something to look for I will be there
 - 📫 How to reach me: Gmail: sanfer851@gmail.com
 
 <!---
