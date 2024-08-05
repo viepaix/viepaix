@@ -9,4 +9,4 @@ viepaix/viepaix is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/669155f2607a23fdb7e0349b?variant=dark)](https://roadmap.sh/u/viepaix)
+[![My Skills](https://skills.thijs.gg/icons?i=py,vim,docker&theme=light)](https://skills.thijs.gg)
