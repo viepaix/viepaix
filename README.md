@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=py,vim,cpp,)](https://skillicons.dev)
 
 
-[![alt text](image.jpg)](https://i.pinimg.com/564x/4e/1b/95/4e1b95c233ea144403052946ce4c6b77.jpg)
+[![alt text](https://i.pinimg.com/564x/4e/1b/95/4e1b95c233ea144403052946ce4c6b77.jpg)]
 
 | Viepaix  | Pentester Jr.|
 |----------|--------------|
