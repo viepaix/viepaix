@@ -9,11 +9,15 @@ viepaix/viepaix is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-| Viepaix  | Pentester Jr.|
-|----------|--------------|
-| Learning | Developer |
-
 ![Static Badge](https://img.shields.io/badge/Viepaix-FutureDev-yellow)
 ---
 ![Static Badge](https://img.shields.io/badge/Learning-This-green)
+
 [![My Skills](https://skillicons.dev/icons?i=py,vim,cpp,)](https://skillicons.dev)
+
+
+[![alt text](image.jpg)](https://i.pinimg.com/564x/4e/1b/95/4e1b95c233ea144403052946ce4c6b77.jpg)
+
+| Viepaix  | Pentester Jr.|
+|----------|--------------|
+| Learning | Developer |
