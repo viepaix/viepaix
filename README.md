@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/564x/4e/1b/95/4e1b95c233ea144403052946ce4c6b77.jpg" width="250" height="200">
 - 👋 Hi, I’m @viepaix
 - 👀 I’m interested in python and cybersecurity
 - 🌱 I’m currently learning python
@@ -14,9 +15,6 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/Learning-This-green)
 
 [![My Skills](https://skillicons.dev/icons?i=py,vim,cpp,)](https://skillicons.dev)
-
-<img src="https://i.pinimg.com/564x/4e/1b/95/4e1b95c233ea144403052946ce4c6b77.jpg" width="200" height="200">
-
 
 | Viepaix  | Pentester Jr.|
 |----------|--------------|
