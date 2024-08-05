@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 |----------|--------------|
 | Learning | Developer |
 
-
-> Currently learning this ↴
-
+![Static Badge](https://img.shields.io/badge/Viepaix-FutureDev-yellow)
+---
+![Static Badge](https://img.shields.io/badge/Learning-This-green)
 [![My Skills](https://skillicons.dev/icons?i=py,vim,cpp,)](https://skillicons.dev)
