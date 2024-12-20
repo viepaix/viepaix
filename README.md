@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 | Viepaix  | Pentester Jr.|
 |----------|--------------|
-| Learning | Developer |
-
-![image](https://github.com/user-attachments/assets/a4cac1ec-23fc-4be6-8c3d-5ca44044b82d)
+| Student | Developer |
+|----------|--------------|
+| English | Spanish |
